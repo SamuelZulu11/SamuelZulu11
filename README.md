@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**SamuelZulu11/SamuelZulu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="100"/>
+  
+  
+  <div id = "badges">
+    <img src="https://komarev.com/ghpvc/?username=SamuelZulu11&style=flat-square&color=blue" alt=""/>
+      <a href="your-linkedin-URL">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="	https://medium.com/@samuelmaglodji">
+        <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+      </a>
+      <a href="your-twitter-URL">
+        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      </a>
+  </div>  
+  
+  
+  <h1>
+    hey there, I'm Kodjo, i'm a Back-End Web Developer( but I also enjoy creating very pretty front interfaces 😄 )
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
